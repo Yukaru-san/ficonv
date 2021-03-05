@@ -1,4 +1,4 @@
-# FI-Converter
+# ficonv
 A tool to convert files into images representing the file's bytes.
 
 # Features
