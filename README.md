@@ -11,7 +11,7 @@ Why wouldn't you?
 <br>
 <br>
 Here is a converted version of my [ageGUI](https://github.com/Yukaru-san/ageGUI):<br>
-https://files.jojii.de/preview/HlFkGWOruPy3TOvIO36NI3ghX<br>
+https://imgur.com/NCCIsYI <br>
 (It's too big for Github)
 
 # How does it work?
