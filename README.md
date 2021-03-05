@@ -13,6 +13,11 @@ Why wouldn't you?
 Here is a converted version of my [ageGUI](https://github.com/Yukaru-san/ageGUI):<br>
 https://files.jojii.de/preview/HlFkGWOruPy3TOvIO36NI3ghX<br>
 (It's too big for Github)<br><br>
+<br>
+<br>
+# How does it work?
+Every 4 bytes byte from the input file represent 1 pixel in the image (r,g,b,a).<br>
+This way the resulting image is always about the same size as the original file.
 
 # Installation
 If you want to compile the program yourself:
