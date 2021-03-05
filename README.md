@@ -15,7 +15,7 @@ https://files.jojii.de/preview/HlFkGWOruPy3TOvIO36NI3ghX<br>
 (It's too big for Github)
 
 # How does it work?
-Every 4 bytes byte from the input file represent 1 pixel in the image (r,g,b,a).<br>
+The program takes chunks of 4 bytes from the original file to represent 1 pixel (r,g,b,a).<br>
 This way the resulting image is always about the same size as the original file.
 
 # Installation
