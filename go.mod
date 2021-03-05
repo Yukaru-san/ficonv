@@ -1,4 +1,4 @@
-module github.com/Yukaru-san/FI-Converter
+module ficonv
 
 go 1.16
 
