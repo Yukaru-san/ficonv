@@ -3,7 +3,7 @@ A tool to convert files into images representing the file's bytes.
 
 # Features
 The Tool is currently supporting the following features:
-- Convert Files to an Image
+- Convert a File to an Image
 - Convert that image back into a file
 
 # Why would you need this?
