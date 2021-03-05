@@ -12,7 +12,7 @@ Why wouldn't you?
 <br>
 Here is a converted version of my [ageGUI](https://github.com/Yukaru-san/ageGUI):<br>
 https://files.jojii.de/preview/HlFkGWOruPy3TOvIO36NI3ghX<br>
-(It's too big for Github)<br><br>
+(It's too big for Github)
 
 # How does it work?
 Every 4 bytes byte from the input file represent 1 pixel in the image (r,g,b,a).<br>
