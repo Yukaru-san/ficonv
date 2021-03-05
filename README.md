@@ -21,9 +21,9 @@ This way the resulting image is always about the same size as the original file.
 # Installation
 If you want to compile the program yourself:
 <br>
-```git clone https://github.com/Yukaru-san/FI-Converter``` <br>
-```cd FI-Converter``` <br>
-```go build -o ficonv``` <br>
+```git clone https://github.com/Yukaru-san/ficonv``` <br>
+```cd ficonv``` <br>
+```go build``` <br>
 
 You can also head over to the [release tab](https://github.com/Yukaru-san/ageGUI/releases/tag/v1.1) and download a precompiled version.
 
